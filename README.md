@@ -15,6 +15,7 @@ Password Security: bcrypt.js
 arduino
 Copy
 Edit
+
 ├── backend/
 │   ├── controllers/
 │   ├── middleware/
@@ -31,25 +32,19 @@ Edit
 │   │   └── api.js
 │   └── public/
 └── README.md
+
 ✨ Features
 User Side:
 User Registration & Login (JWT Authentication)
-
 Browse All Events
-
 Book Events
-
 View & Cancel My Bookings
-
 Update Profile
 
 Admin Side:
 Add / Update / Delete Events
-
 View Dashboard Stats (Users, Events, Bookings)
-
 View Latest 5 Users & Latest 5 Bookings
-
 View Graphs (Users Registration Trends, Bookings Trends)
 
 🛠 Installation & Setup
